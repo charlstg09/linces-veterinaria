@@ -140,7 +140,7 @@
             this.BtnCitas.Name = "BtnCitas";
             this.BtnCitas.Size = new System.Drawing.Size(275, 29);
             this.BtnCitas.TabIndex = 3;
-            this.BtnCitas.Text = "w";
+            this.BtnCitas.Text = "CITAS REGISTRADAS";
             this.BtnCitas.UseVisualStyleBackColor = false;
             this.BtnCitas.Click += new System.EventHandler(this.button1_Click);
             // 
